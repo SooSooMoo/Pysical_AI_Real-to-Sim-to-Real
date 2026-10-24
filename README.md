@@ -1,4 +1,4 @@
-# Pysical_AI_Sim-to-Real
+# Pysical_AI_Real-to-Sim_and_Sim-to-Real
 Use a control model—learned and verified through simulation—on an actual robot.
 
 ## English
