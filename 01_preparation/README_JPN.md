@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/20261027_SO-ARM101.jpg" width="50%">
+      <img src="images/20261027_SO-ARM101.jpg" width="33%">
       <br><b> SO-ARM101 </b>
     </td>
   </tr>
