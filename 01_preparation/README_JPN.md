@@ -26,10 +26,11 @@
  　　　`usbipd --version` <br>
 　・バージョン(5.3.0-54+Branch.master.Sha.aa.....)が表示されたら、usbipd-winの導入は成功です。
 
-### 2. リーダーのUSB接続を識別
+### 2. リーダーの設定
 　・黒い基板をPCが認識
 　・アクセス権の設定も成功 ⇒ Ubuntuから黒い基板を扱える状態
 　・Ubuntu側：LeRobot用のPython環境を準備
+ 　　　　　　　LeRobot本体とSO-101のモーター通信に必要なソフトを入れる
 
  
  
