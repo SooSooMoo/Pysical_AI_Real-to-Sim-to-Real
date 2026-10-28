@@ -19,4 +19,5 @@ https://huggingface.co/docs/lerobot/so101
 ## 「テレオペレーション」の準備
 リーダーを動かすとフォロワーが追従する「テレオペレーション」の準備を行う
 
+### 1. ロボットのUSB接続をUbuntuに渡すための usbipd-win を導入する。
 
