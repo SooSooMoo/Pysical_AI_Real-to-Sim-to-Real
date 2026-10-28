@@ -13,4 +13,5 @@
   </tr>
 </table>
 
-
+## Hugging Face community
+https://huggingface.co/docs/lerobot/so101
