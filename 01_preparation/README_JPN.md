@@ -14,7 +14,7 @@
 </table>
 
 ## Hugging Face コミュニティ
-https://huggingface.co/docs/lerobot/so101
+     https://huggingface.co/docs/lerobot/so101
 
 ## 「テレオペレーション」の準備
 リーダーを動かすとフォロワーが追従する「テレオペレーション」の準備を行う
