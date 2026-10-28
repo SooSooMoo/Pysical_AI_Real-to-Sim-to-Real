@@ -21,9 +21,9 @@
 
 ### 1. ロボットのUSB接続をUbuntuに渡すための usbipd-win を導入
 　・WindowsのPowerShellで、以下を実行してください。<br>
- 　　　`winget install --interactive --exact dorssel.usbipd-win`
+ 　　　`winget install --interactive --exact dorssel.usbipd-win` <br>
 　・PowerShellを閉じて開き直し、次を実行してください。<br>
- 　　　`usbipd --version`
+ 　　　`usbipd --version` <br>
 　・バージョン(5.3.0-54+Branch.master.Sha.aa.....)が表示されたら、usbipd-winの導入は成功です。
 
 ### 2. リーダーのUSB接続を識別
