@@ -21,4 +21,4 @@ https://huggingface.co/docs/lerobot/so101
 
 ### 1. ロボットのUSB接続をUbuntuに渡すための usbipd-win を導入
 　・WindowsのPowerShellで、以下を実行してください。<br>
- 　　　winget install --interactive --exact dorssel.usbipd-win
+ 　　　`winget install --interactive --exact dorssel.usbipd-win`
