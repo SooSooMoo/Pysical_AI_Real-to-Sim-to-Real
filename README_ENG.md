@@ -1,6 +1,6 @@
 # Pysical_AI_Real-to-Sim_and_Sim-to-Real
 
-Use a control model—learned and verified through simulation—on an actual robot.
+Control models, learned and verified through simulation, are translated into actions performed by an actual robot.
 
 ## Introduction
 I have previously implemented VLA (Vision-Language-Action) in simulations using Isaac Lab, and I now intend to deploy it on a physical robot.
