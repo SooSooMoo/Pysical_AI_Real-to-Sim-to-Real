@@ -19,9 +19,9 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 
 ### 1. Install `usbipd-win` to pass the robot's USB connection to Ubuntu
 ・Run the following command in Windows PowerShell: <br>
-　　`winget install --interactive --exact dorssel.usbipd-win` <br>
+　　　`winget install --interactive --exact dorssel.usbipd-win` <br>
 ・Close and reopen PowerShell, then run the following command: <br>
-　　`usbipd --version` <br>
+　　　`usbipd --version` <br>
 ・If the version (e.g., 5.3.0-54+Branch.master.Sha.aa...) is displayed, the installation of `usbipd-win` was successful. 
 
 ### 2. Leader Setup and Operational Verification
@@ -39,10 +39,10 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 ### 3. Follower Setup and Operational Verification
 ・Connect the follower’s 3-core cable to the control board <br>
 ・Mount the follower unit onto the desk <br>
-・Secure the base using a clamp <br>
+　　　・Secure the base using a clamp <br>
 ・Calibrate the follower unit <br>
-・Verify USB detection and access permissions in Ubuntu <br>
-・Perform calibration <br>
+　　　・Verify USB detection and access permissions in Ubuntu <br>
+　　　・Perform calibration <br>
 
 ### 4. Teleoperation Verification
 ・Connect the leader’s black control board to the PC via USB <br>
