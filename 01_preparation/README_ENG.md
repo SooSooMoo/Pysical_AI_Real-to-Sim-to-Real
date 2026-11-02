@@ -48,4 +48,4 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 ・Connect the leader’s black control board to the PC via USB <br>
 ・Connect the control board of the white follower unit to a PC via USB <br>
 ・Initial verification of teleoperation <br>
-・Verification of elbow flexion and extension (following motion): Completed <br>
+　　　・Verification of elbow flexion and extension (following motion): Completed <br>
