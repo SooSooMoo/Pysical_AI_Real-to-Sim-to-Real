@@ -19,20 +19,22 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 
 ### 1. Install `usbipd-win` to pass the robot's USB connection to Ubuntu
 ・Run the following command in Windows PowerShell: <br>
-`winget install --interactive --exact dorssel.usbipd-win` <br>
+　　`winget install --interactive --exact dorssel.usbipd-win` <br>
 ・Close and reopen PowerShell, then run the following command: <br>
-`usbipd --version` <br>
-・If the version (e.g., 5.3.0-54+Branch.master.Sha.aa...) is displayed, the installation of `usbipd-win` was successful. ### 2. Leader Setup and Operational Verification
+　　`usbipd --version` <br>
+・If the version (e.g., 5.3.0-54+Branch.master.Sha.aa...) is displayed, the installation of `usbipd-win` was successful. 
+
+### 2. Leader Setup and Operational Verification
 ・PC detects the black control board <br>
 ・Access permissions successfully configured ⇒ The black control board is now accessible from Ubuntu <br>
 ・Ubuntu-side: Prepare the Python environment for LeRobot <br>
-・Install the software required for LeRobot and for communication with the SO-101 motors <br>
+　　　・Install the software required for LeRobot and for communication with the SO-101 motors <br>
 ・Mount the leader unit onto the desk <br>
-・Secure the base using a clamp <br>
+　　　・Secure the base using a clamp <br>
 ・Calibrate the leader unit <br>
-・Verify USB detection and access permissions in Ubuntu <br>
-・Check the communication verification function within the Feetech (servo motor manufacturer) SDK <br>
-・Perform calibration <br>
+　　　・Verify USB detection and access permissions in Ubuntu <br>
+　　　・Check the communication verification function within the Feetech (servo motor manufacturer) SDK <br>
+　　　・Perform calibration <br>
 
 ### 3. Follower Setup and Operational Verification
 ・Connect the follower’s 3-core cable to the control board <br>
