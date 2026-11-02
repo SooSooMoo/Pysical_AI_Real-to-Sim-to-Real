@@ -8,7 +8,7 @@ I am currently developing a concept for Real-to-Sim and Sim-to-Real pipeline.
 
 ## 01_preparation
 
-[preparayion](01_preparation/) · 
+[preparation](01_preparation/) · 
 
 
 
