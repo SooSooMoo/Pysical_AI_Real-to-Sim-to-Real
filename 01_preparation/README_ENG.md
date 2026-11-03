@@ -57,9 +57,10 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 ・Connect the control board of the black "leader" unit to the PC via USB <br>
 ・Connect the control board of the white "follower" unit to the PC via USB <br>
 ・Initial teleoperation verification: <br>
-　　　・Gripper (hand) opening/closing synchronization: Completed <br>
-　　　・Wrist rotation (twisting) synchronization: Completed <br>
-　　　・Elbow bending/extension synchronization: Completed <br>
-　　　・Shoulder raising/lowering synchronization: Completed <br>
-　　　　　　　Issue with shoulder synchronization: Resolved (Cause: Calibration error on the follower unit) <br>
-　　　・Base rotation (left/right) synchronization: Completed <br>
+      ・Verification of tracking for [opening/closing of claws (fingers)]: Completed <br>
+      ・Verification of tracking for [wrist flexion/extension]: Completed <br>
+      ・Verification of tracking for [wrist rotation]: Completed <br>
+      ・Verification of tracking for [elbow flexion/extension]: Completed <br>
+      ・Verification of tracking for [shoulder elevation/depression]: Completed <br>
+            Shoulder tracking issue: Resolved (Cause: Error in follower calibration) <br>
+      ・Verification of tracking for [shoulder lateral rotation]: Completed <br>
