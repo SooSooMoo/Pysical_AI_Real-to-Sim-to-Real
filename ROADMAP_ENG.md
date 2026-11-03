@@ -1,4 +1,4 @@
-# SO-ARM101 Project Roadmap
+# SO-101 Project Roadmap
 
 **Status as of November 3, 2026:** The follower tracks the leader on all six joints. The next session, on or after November 4, will cover USB camera setup and video verification. Later dates have not been set.
 
