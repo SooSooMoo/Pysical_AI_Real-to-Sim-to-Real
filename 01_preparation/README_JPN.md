@@ -46,6 +46,15 @@
  　　　　　・UbuntuでのUSB認識とアクセス権の確認 <br>
  　　　　　・キャリブレーション <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/20261103_leader_and_follower.png" width="33%">
+      <br><b> follower and leader </b>
+    </td>
+  </tr>
+</table>
+
 ### 4. テレオペレーションの確認
 　・黒いリーダーの制御基板を、USBでPCにつなぐ <br>
 　・白いフォロワーの制御基板を、USBでPCにつなぐ <br>
