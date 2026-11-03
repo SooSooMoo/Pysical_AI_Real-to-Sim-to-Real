@@ -1,14 +1,14 @@
 
 # 準備 2026/10/23-11/3
 
-## SO-ARM101、購入を申込
+## SO-101、購入を申込
 
-## SO-ARM101、到着
+## SO-101、到着
 <table>
   <tr>
     <td align="center">
       <img src="images/20261027_SO-ARM101.jpg" width="33%">
-      <br><b> SO-ARM101 </b>
+      <br><b> SO-101 </b>
     </td>
   </tr>
 </table>
