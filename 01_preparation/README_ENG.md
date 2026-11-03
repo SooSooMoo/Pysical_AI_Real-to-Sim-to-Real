@@ -44,6 +44,15 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 　　　・Verify USB detection and access permissions in Ubuntu <br>
 　　　・Perform calibration <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/20261103_leader_and_follower.png" width="33%">
+      <br><b> follower and leader </b>
+    </td>
+  </tr>
+</table>
+
 ### 4. Teleoperation Verification
 ・Connect the leader’s black control board to the PC via USB <br>
 ・Connect the control board of the white follower unit to a PC via USB <br>
