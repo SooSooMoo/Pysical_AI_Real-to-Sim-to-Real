@@ -1,5 +1,5 @@
 
-# preparation 2026/10/23-11/2
+# preparation 2026/10/23-11/3
 
 ## Placed an order for the SO-ARM101
 
