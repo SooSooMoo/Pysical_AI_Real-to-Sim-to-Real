@@ -66,8 +66,8 @@ Set up "teleoperation," where a follower robot tracks the movements of a leader 
 ・Connect the control board of the black "leader" unit to the PC via USB <br>
 ・Connect the control board of the white "follower" unit to the PC via USB <br>
 ・Initial teleoperation verification: <br>
-      ・Verification of tracking for [opening/closing of claws (fingers)]: Completed <br>
-      ・Verification of tracking for [wrist flexion/extension]: Completed <br>
+　　　・Verification of tracking for [opening/closing of claws (fingers)]: Completed <br>
+　　　・Verification of tracking for [wrist flexion/extension]: Completed <br>
       ・Verification of tracking for [wrist rotation]: Completed <br>
       ・Verification of tracking for [elbow flexion/extension]: Completed <br>
       ・Verification of tracking for [shoulder elevation/depression]: Completed <br>
