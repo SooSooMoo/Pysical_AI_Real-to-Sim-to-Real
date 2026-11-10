@@ -7,7 +7,7 @@
 これまで、issac-labにてシミュレーションでVLAを実現してきましたが、実際のロボットで行動させたいと考えています。
 今、Real-to-Sim / Sim-to-Realパイプラインの構想を練っています。
 
-## 01_準備
+## スケジュール
 
-[準備](01_preparation/) · 
+- **[Japanese — ROADMAP_JPN.md](ROADMAP_JPN.md)**
 
