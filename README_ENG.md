@@ -6,9 +6,9 @@ Control models, learned and verified through simulation, are translated into act
 I have previously implemented VLA (Vision-Language-Action) in simulations using Isaac Lab, and I now intend to deploy it on a physical robot.
 I am currently developing a concept for Real-to-Sim and Sim-to-Real pipeline.
 
-## 01_preparation
+## Schedule
 
-[preparation](01_preparation/) · 
+- **[English — ROADMAP_ENG.md](ROADMAP_ENG.md)**
 
 
 
