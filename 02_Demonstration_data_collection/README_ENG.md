@@ -1,5 +1,5 @@
 
-# SO-101 hardware setup　　2026/10/23-11/3
+# Demonstration data collection　　2026/11/5-11/10
 
 ## Placed an order for the SO-101
 
