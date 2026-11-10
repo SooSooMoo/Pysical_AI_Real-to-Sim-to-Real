@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## Hugging Face コミュニティ
+### Hugging Face コミュニティ
      https://huggingface.co/docs/lerobot/so101
 
 ## 01-1 PC環境の準備
