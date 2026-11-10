@@ -1,5 +1,5 @@
 
-# SO-101 hardware setup    2026/10/23-11/3
+# SO-101 hardware setup　　2026/10/23-11/3
 
 ## Placed an order for the SO-101
 
