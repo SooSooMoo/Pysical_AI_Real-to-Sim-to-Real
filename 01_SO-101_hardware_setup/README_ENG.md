@@ -28,7 +28,7 @@ Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions.
 ・If the version (e.g., 5.3.0-54+Branch.master.Sha.aa...) is displayed, the installation of `usbipd-win` was successful. 
 
 ## 01-2. Prepare both arms
-Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions.
+Clamp both bases to the table. Check wiring, power supplies, and motor communication. Save the calibration data for each arm.
 
 ### A. Leader Setup and Operational Verification
 ・PC detects the black control board <br>
