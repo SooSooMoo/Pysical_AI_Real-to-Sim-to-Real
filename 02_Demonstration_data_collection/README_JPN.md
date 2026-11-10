@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/..." width="33%">
-      <br><b> SO-101 </b>
+      <img src="images/camera_arm_parts.jfif" width="33%">
+      <br><b> カメラアーム、カメラ設置パーツ等 </b>
     </td>
   </tr>
 </table>
