@@ -17,6 +17,9 @@
 https://huggingface.co/docs/lerobot/so101## Preparing for "Teleoperation"
 Set up "teleoperation," where a follower robot tracks the movements of a leader robot.
 
+## 01-1 PC環境の準備
+Ubuntu・LeRobotを準備し、USB接続とアクセス権を確認する。
+
 ### 1. Install `usbipd-win` to pass the robot's USB connection to Ubuntu
 ・Run the following command in Windows PowerShell: <br>
 　　　`winget install --interactive --exact dorssel.usbipd-win` <br>
