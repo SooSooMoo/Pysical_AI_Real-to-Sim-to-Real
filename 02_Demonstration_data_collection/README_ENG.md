@@ -1,7 +1,7 @@
 
 # Demonstration data collection　　2026/11/5-11/10
 
-## Placed an order for the SO-101
+## Request to purchase camera arms and camera mounting components
 
 ## The SO-101 arrived
 <table>
