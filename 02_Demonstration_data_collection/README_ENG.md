@@ -3,11 +3,11 @@
 
 ## Request to purchase camera arms and camera mounting components
 
-## The SO-101 arrived
+## Camera arm, camera mounting components, etc., have arrived.
 <table>
   <tr>
     <td align="center">
-      <img src="images/20261027_SO-ARM101.jpg" width="33%">
+      <img src="images/..." width="33%">
       <br><b> SO-101 </b>
     </td>
   </tr>
