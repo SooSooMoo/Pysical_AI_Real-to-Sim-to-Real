@@ -74,3 +74,12 @@ Move the black leader arm and confirm that the white follower tracks all six joi
 　　　　　　　Shoulder tracking issue: Resolved (Cause: Error in follower calibration) <br>
 　　　・Verification of tracking for [shoulder lateral rotation]: Completed <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/..." width="33%">
+      <br><b> Someday... I’d like to upload a video... </b>
+    </td>
+  </tr>
+</table>
+
