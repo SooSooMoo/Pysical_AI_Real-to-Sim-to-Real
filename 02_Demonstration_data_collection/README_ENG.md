@@ -16,7 +16,7 @@
 ## 02-1. Connect the camera and check the video
 Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the white follower’s gripper and the target object are both visible in the frame.
 
-### A. Windows用の撮影環境を作る
-　・Windows用Pythonを準備 / 撮影環境を作る / Windowsでライブ映像を表示する / Ubuntuへの映像受け渡しを確認する <br>
+### A. Setting up a recording/capture environment for Windows
+　・Setting up Python for Windows / Preparing the filming environment / Displaying live video on Windows / Verifying video transmission to Ubuntu <br>
 
-### B. カメラの仮置き・撮影位置の決定
+### B. Temporarily placing the camera and determining the shooting position
