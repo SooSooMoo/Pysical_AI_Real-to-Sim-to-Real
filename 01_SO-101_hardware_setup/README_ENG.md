@@ -27,10 +27,10 @@ Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions.
 　　　`usbipd --version` <br>
 ・If the version (e.g., 5.3.0-54+Branch.master.Sha.aa...) is displayed, the installation of `usbipd-win` was successful. 
 
-## 01-2. Prepare the PC
+## 01-2. Prepare both arms
 Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions.
 
-### 2. Leader Setup and Operational Verification
+### A. Leader Setup and Operational Verification
 ・PC detects the black control board <br>
 ・Access permissions successfully configured ⇒ The black control board is now accessible from Ubuntu <br>
 ・Ubuntu-side: Prepare the Python environment for LeRobot <br>
@@ -42,7 +42,7 @@ Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions.
 　　　・Check the communication verification function within the Feetech (servo motor manufacturer) SDK <br>
 　　　・Perform calibration <br>
 
-### 3. Follower Setup and Operational Verification
+### B. Follower Setup and Operational Verification
 ・Connect the follower’s 3-core cable to the control board <br>
 ・Mount the follower unit onto the desk <br>
 　　　・Secure the base using a clamp <br>
