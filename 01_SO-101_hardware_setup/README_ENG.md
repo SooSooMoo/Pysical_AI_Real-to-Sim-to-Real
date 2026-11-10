@@ -59,6 +59,9 @@ Clamp both bases to the table. Check wiring, power supplies, and motor communica
   </tr>
 </table>
 
+## 01-3 Test teleoperation
+Clamp both bases to the table. Check wiring, power supplies, and motor communication. Save the calibration data for each arm.
+
 ### 4. Teleoperation Verification
 ・Connect the control board of the black "leader" unit to the PC via USB <br>
 ・Connect the control board of the white "follower" unit to the PC via USB <br>
