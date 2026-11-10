@@ -59,7 +59,7 @@ Clamp both bases to the table. Check wiring, power supplies, and motor communica
   </tr>
 </table>
 
-## 01-3 Test teleoperation
+## 01-3. Test teleoperation
 Move the black leader arm and confirm that the white follower tracks all six joints.
 
 ### A. Teleoperation Verification
