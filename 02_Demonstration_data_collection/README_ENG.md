@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## 02-1. カメラの接続・映像確認 
+## 02-1. Connect the camera and check the video
 付属USBカメラを接続。Ubuntuで白い爪と作業対象が同じ画面に映る位置に固定する。
 
 ### A. Windows用の撮影環境を作る
