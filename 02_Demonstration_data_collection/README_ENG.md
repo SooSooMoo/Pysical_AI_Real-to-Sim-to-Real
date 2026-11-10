@@ -14,7 +14,7 @@
 </table>
 
 ## 02-1. Connect the camera and check the video
-付属USBカメラを接続。Ubuntuで白い爪と作業対象が同じ画面に映る位置に固定する。
+Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the white follower’s gripper and the target object are both visible in the frame.
 
 ### A. Windows用の撮影環境を作る
 　・Windows用Pythonを準備 / 撮影環境を作る / Windowsでライブ映像を表示する / Ubuntuへの映像受け渡しを確認する <br>
