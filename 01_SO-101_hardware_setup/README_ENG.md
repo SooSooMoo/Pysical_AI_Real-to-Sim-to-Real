@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## Hugging Face community
+### Hugging Face community
 https://huggingface.co/docs/lerobot/so101## Preparing for "Teleoperation"
 Set up "teleoperation," where a follower robot tracks the movements of a leader robot.
 
