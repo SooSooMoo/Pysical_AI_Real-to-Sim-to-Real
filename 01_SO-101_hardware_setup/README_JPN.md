@@ -17,6 +17,7 @@
      https://huggingface.co/docs/lerobot/so101
 
 ## 01-1 PC環境の準備
+Ubuntu・LeRobotを準備し、USB接続とアクセス権を確認する。
 
 ### A. ロボットのUSB接続をUbuntuに渡すための usbipd-win を導入
 　・WindowsのPowerShellで、以下を実行してください。<br>
