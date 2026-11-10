@@ -74,9 +74,3 @@ Move the black leader arm and confirm that the white follower tracks all six joi
 　　　　　　　Shoulder tracking issue: Resolved (Cause: Error in follower calibration) <br>
 　　　・Verification of tracking for [shoulder lateral rotation]: Completed <br>
 
-## Camera Connection and Video Verification
-
-### 1. Setting Up the Capture Environment for Windows
-・Prepare Python for Windows / Set up the capture environment / Display live video on Windows / Verify video transmission to Ubuntu <br>
-
-### 2. Determining the Capture Position
