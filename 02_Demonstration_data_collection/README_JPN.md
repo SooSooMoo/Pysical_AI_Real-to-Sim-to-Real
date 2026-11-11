@@ -34,6 +34,15 @@
 　・Windows用Pythonを準備 / 撮影環境を作る / Windowsでライブ映像を表示する / Ubuntuへの映像受け渡しを確認する <br>
 
 ### B. カメラの仮置き・撮影位置の決定
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/image_from_camera.jpg" width="33%">
+      <br><b> カメラからの画像 </b>
+    </td>
+  </tr>
+</table>
       
  
  
