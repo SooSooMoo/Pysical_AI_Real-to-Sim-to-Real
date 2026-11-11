@@ -13,6 +13,20 @@
   </tr>
 </table>
 
+## カメラアーム、組み立て
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/arm_camera_setting_completed_1.png" width="33%">
+      <br><b> 組み立て後、全体 </b>
+    </td>
+    <td align="center">
+      <img src="images/arm_camera_setting_completed_2.png" width="33%">
+      <br><b> 組み立て後、カメラ部 </b>
+    </td>
+  </tr>
+</table>
+
 ## 02-1. カメラの接続・映像確認 
 付属USBカメラを接続。Ubuntuで白い爪と作業対象が同じ画面に映る位置に固定する。
 
