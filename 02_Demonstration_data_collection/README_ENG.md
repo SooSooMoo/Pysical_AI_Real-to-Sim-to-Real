@@ -34,3 +34,13 @@ Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the whi
 　・Setting up Python for Windows / Preparing the filming environment / Displaying live video on Windows / Verifying video transmission to Ubuntu <br>
 
 ### B. Temporarily placing the camera and determining the shooting position
+　・Position the white grippers so that they and the objects being handled (the workpiece and its container) are both visible within the same field of view.
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/image_from_camera.jpg" width="33%">
+      <br><b> Image from the camera </b>
+    </td>
+  </tr>
+</table>
+      
