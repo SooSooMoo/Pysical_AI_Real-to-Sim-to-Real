@@ -6,7 +6,7 @@
 
 | Phase | Task | Steps and completion criteria | Status |
 | --- | --- | --- | --- |
-| 1. SO-101 hardware setup | 1-1 Prepare the PC | Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions. | Complete |
+| 1. [SO-101 hardware setup](01_SO-101_hardware_setup/README_JPN.md)  | 1-1 Prepare the PC | Set up Ubuntu and LeRobot. Verify USB connectivity and serial port permissions. | Complete |
 | 1. SO-101 hardware setup | 1-2 Prepare both arms | Clamp both bases to the table. Check wiring, power supplies, and motor communication. Save the calibration data for each arm. | Complete |
 | 1. SO-101 hardware setup | 1-3 Test teleoperation | Move the black leader arm and confirm that the white follower tracks all six joints. | Complete |
 | 2. Demonstration data collection | 2-1 Connect the camera and check the video| Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the white follower’s gripper and the target object are both visible in the frame. | **Complete** |
