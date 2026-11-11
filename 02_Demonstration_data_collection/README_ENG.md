@@ -13,6 +13,20 @@
   </tr>
 </table>
 
+## Camera arm assembly
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/arm_camera_setting_completed_1.png" width="33%">
+      <br><b> Overall view after assembly </b>
+    </td>
+    <td align="center">
+      <img src="images/arm_camera_setting_completed_2.png" width="33%">
+      <br><b> Camera section after assembly </b>
+    </td>
+  </tr>
+</table>
+
 ## 02-1. Connect the camera and check the video
 Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the white follower’s gripper and the target object are both visible in the frame.
 
