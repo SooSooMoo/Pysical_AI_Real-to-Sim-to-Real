@@ -27,6 +27,17 @@
   </tr>
 </table>
 
+## 作業環境、完成
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/all_character_completed.png" width="33%">
+      <br><b> 作業環境 </b>
+    </td>
+  </tr>
+</table>
+
+
 ## 02-1. カメラの接続・映像確認 
 付属USBカメラを接続。Ubuntuで白い爪と作業対象が同じ画面に映る位置に固定する。
 
