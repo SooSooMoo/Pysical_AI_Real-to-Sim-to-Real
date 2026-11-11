@@ -27,6 +27,17 @@
   </tr>
 </table>
 
+## work environment, completed
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/all_character_completed.png" width="33%">
+      <br><b> work environment </b>
+    </td>
+  </tr>
+</table>
+
+
 ## 02-1. Connect the camera and check the video
 Connect the supplied USB camera and view its feed in Ubuntu. Mount it so the white follower’s gripper and the target object are both visible in the frame.
 
