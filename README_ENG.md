@@ -3,8 +3,9 @@
 Control models, learned and verified through simulation, are translated into actions performed by an actual robot.
 
 ## Introduction
-I have previously implemented VLA (Vision-Language-Action) in simulations using Isaac Lab, and I now intend to deploy it on a physical robot.
-I am currently developing a concept for Real-to-Sim and Sim-to-Real pipeline.
+・I have previously implemented VLA (Vision-Language-Action) in simulations using Isaac Lab, and I now intend to deploy it on a physical robot.<br>
+  I am currently developing a concept for Real-to-Sim and Sim-to-Real pipeline.<br>
+・I have mapped out the concept into a schedule. Please review the schedule below.<br>
 
 ## Schedule
 
