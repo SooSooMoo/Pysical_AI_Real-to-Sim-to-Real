@@ -90,7 +90,7 @@
 ### D. 保存ファイル
 
 - 数値データ：`data/chunk-000/file-000.parquet`
-- 動画：`videos/observation.images.workspace/chunk-000/file-000.mp4`  [動画](video/so101_retry04.mp4)
+- 動画：`videos/observation.images.workspace/chunk-000/file-000.mp4` --->  [動画](video/so101_retry04.mp4)
 - メタデータ：`meta/info.json`
 
 ### E. 検証結果と今後の改善
