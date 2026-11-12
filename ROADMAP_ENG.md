@@ -19,4 +19,4 @@
 | 5. Sim-to-Real | 5-1 Train and refine the policy in simulation | Vary conditions such as object position and lighting while training and evaluating the policy on the same task. | Planned |
 | 5. Sim-to-Real | 5-2 Validate on hardware | Test the refined policy on the white follower and compare its success rate with the baseline from Phase 3. | Planned |
 
-"MimicAndCapture": Mimic and Capture — the “Hello World” of robot data collection.Follow the motion. Record the scene. Save the data.I came up with the name.
+"MimicAndCapture": Mimic and Capture — the “Hello World” of robot data collection.Follow the motion. Record the scene. Save the data.<br>I came up with the name.
