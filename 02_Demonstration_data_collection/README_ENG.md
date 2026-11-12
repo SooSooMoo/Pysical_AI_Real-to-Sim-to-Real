@@ -90,7 +90,7 @@ The recording setup involved capturing footage on a Windows machine and reading 
 ### D. Saved Files
 
 - Numerical Data: `data/chunk-000/file-000.parquet`
-- Video: `videos/observation.images.workspace/chunk-000/file-000.mp4` [Video](video/so101_retry04.mp4)
+- Video: `videos/observation.images.workspace/chunk-000/file-000.mp4` --->  [Video](video/so101_retry04.mp4)
 - Metadata: `meta/info.json`
 
 ### E. Verification Results and Future Improvements
