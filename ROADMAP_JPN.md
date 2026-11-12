@@ -18,4 +18,5 @@
 | ④ Real-to-Sim | 4-2 実機との比較 | 記録した動きを仮想アームで再生し、爪先の軌跡と対象物の動きを実機と比較する。 | 予定 |
 | ⑤ Sim-to-Real | 5-1 仮想環境での学習・改善 | 対象物の位置や照明を変え、同じ作業を仮想環境で練習・評価する。 | 予定 |
 | ⑤ Sim-to-Real | 5-2 実機での検証 | 改善したモデルを白いフォロワーで試し、③で記録した成功率と比較する。 | 予定 |
+
 "MimicAndCapture": Mimic and Capture — the “Hello World” of robot data collection.Follow the motion. Record the scene. Save the data.I came up with the name.
