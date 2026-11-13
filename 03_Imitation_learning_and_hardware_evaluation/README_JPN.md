@@ -233,7 +233,7 @@ act_16train_4eval_fp32_20261113_161537/checkpoints/010000/pretrained_model
 |---|---|
 | 試行ID | `rollout_so101_act100_current_20261113_202600` |
 | 実行日 | 2026年11月13日 |
-| 結果 | 黄緑のワークを把持し、赤い入れ物へ置く動作に成功（[評価の成功動画](video/so101_retry04.mp4)） |
+| 結果 | 黄緑のワークを把持し、赤い入れ物へ置く動作に成功（[評価の成功動画](video_evalustion/act_success_20261113_202600.mp4) |
 | 制限時間 | 60秒 |
 | 制御の目標fps | 30 |
 | `n_action_steps` | 100 |
