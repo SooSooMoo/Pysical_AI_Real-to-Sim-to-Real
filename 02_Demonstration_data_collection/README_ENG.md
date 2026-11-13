@@ -1,5 +1,5 @@
 
-# SO-101 Demonstration data collection　　2026/11/5-11/11
+# SO-101 Demonstration data collection　　2026/11/5-11/13
 
 ## Request to purchase camera arms and camera mounting components
 
@@ -99,3 +99,45 @@ The recording setup involved capturing footage on a Windows machine and reading 
 - Visual inspection confirmed the absence of black bars, missing image segments, or prolonged freezes in the video. <br>
 ・At the moment of grasping, the contact between the gripper fingers and the workpiece is obscured by the follower itself, making it impossible to directly observe this contact via the video feed.<br>
 For now, this footage will be saved as a result of the trial run; however, the camera position will be adjusted in future sessions to ensure the grasping action remains visible for the purpose of collecting demonstrations for machine learning.<br>
+
+## 02-3. Collecting Demonstration Data
+Repeat and record the same task, then compile successful demonstration data for training purposes.
+
+Using the SO-101 "leader" unit, we collected demonstrations in which the "follower" unit performed the task: "grasp a yellow-green workpiece, lift it, transport it to a red container, and place it inside." <br>
+We selected 20 successful demonstrations to create a dataset for imitation learning. <br>
+
+#### Collection Method
+
+- We used a white "follower" unit and a black "leader" unit, reusing previously saved calibration settings.
+- The workspace was filmed by a single camera positioned opposite the robots.
+- After adjusting the field of view through test recordings, we proceeded with data collection using consistent camera angles and control settings.
+- Data was collected in four batches of 5 demonstrations each.
+- Each demonstration began when the operator pressed the "Enter" key; after the data was saved, the outcome (success or failure) was recorded. Before each subsequent demonstration, the yellow-green workpiece and the robotic arm were reset to their initial positions.
+- The 8th demonstration was re-recorded; the original 8th attempt was discarded, and the re-recorded data was used instead.
+
+| Item | Details |
+|---|---|
+| Number of demonstrations used | 20 episodes ([datasets/video/](datasets/video/)) |
+| Camera images | 640 × 480, RGB |
+| Recording frame rate (FPS) | 30 |
+| Numerical data | `observation.state` and `action` (6 elements each) |
+| Target joints | Base rotation, shoulder, elbow, wrist pitch, wrist roll, gripper |
+| Data format | LeRobot Dataset v3.0 |
+
+#### Data Inspection and Integration
+
+Numerical data and video recordings were inspected after every 5 demonstrations; the re-recorded 8th demonstration was also verified.
+
+- Ensured that the number of rows in the metadata matches the number of rows in the numerical data.
+- Verified that `observation.state` and `action` each consist of 6 elements and contain no NaN (Not a Number) or infinite values. - Frame numbers must be sequential, starting from 0; timestamps must be monotonically increasing and consistent with the specified frame rate (FPS).
+- The video file must be readable in its entirety, with a resolution of 640 × 480.
+- The number of frames in the video must match the number of frames in the numerical data.
+
+The post-task waiting periods for each demonstration were processed, and the data—without altering the original source files—was integrated into a new training dataset. The source data comprised a total of 20,650 frames; following processing and integration, this resulted in 20 episodes containing 15,540 frames.
+
+After integration, it was verified that the numerical data remained intact and that the frame counts in the videos matched the data. Note that because the videos were re-encoded using the H.264 codec, they are not byte-for-byte identical to the original video files.
+
+This validation process confirms the integrity of the file structure, numerical data, and timestamps; it does not guarantee that every image is unique, nor does it certify the precision of real-time synchronization between the camera feed and the joint data.
+
+**Result: 20 successful demonstrations have been incorporated, and the preparation of the training dataset is complete.**
+
