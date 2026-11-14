@@ -87,7 +87,7 @@ Because this evaluation took place during the development phase—with trial dur
 | Item | Details |
 |---|---|
 | Trial ID | `rollout_so101_act100_current_20261113_202600` |
-| Result | Successfully grasped a yellow-green workpiece and placed it into a red container ([Video of successful evaluation](video_evaluation/act_success_20261113_202600.mp4)) |
+| Result | Successfully grasped a yellow-green workpiece and placed it into a red container ([Video of successful evaluation](video_evaluation/)) |
 | Time Limit | 60 seconds |
 | Target Control FPS | 30 |
 | Action Steps per Re-prediction | 100 |
