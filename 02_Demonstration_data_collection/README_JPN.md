@@ -109,7 +109,7 @@ SO-101のリーダーを操作し、フォロワーによる「黄緑のワー�
 <table>
   <tr>
     <td align="center">
-      <br><b> [テレオペレーション：実演データ収集の動画](video/teleoperation.mp4) ) </b>
+      <br><b> [テレオペレーション：実演データ収集の動画](video/teleoperation.mp4) </b>
     </td>
   </tr>
 </table>
