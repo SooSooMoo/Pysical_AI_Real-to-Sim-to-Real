@@ -106,6 +106,8 @@ Repeat and record the same task, then compile successful demonstration data for 
 Using the SO-101 "leader" unit, we collected demonstrations in which the "follower" unit performed the task: "grasp a yellow-green workpiece, lift it, transport it to a red container, and place it inside." <br>
 We selected 20 successful demonstrations to create a dataset for imitation learning. <br>
 
+[Teleoperation: Video of demonstration data collection](video/) teleoperation.mp4
+
 #### Collection Method
 
 - We used a white "follower" unit and a black "leader" unit, reusing previously saved calibration settings.
