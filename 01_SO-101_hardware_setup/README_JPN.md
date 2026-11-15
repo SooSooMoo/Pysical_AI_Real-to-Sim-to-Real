@@ -73,11 +73,3 @@ Ubuntu・LeRobotを準備し、USB接続とアクセス権を確認する。
 　　　　　　　　　肩の追従不良発生：対応済み(原因：フォロワーのキャリブレーションのミス) <br>
  　　　　　・[肩の左右回転]の追従確認：完了 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/..." width="33%">
-      <br><b> いつか・・・動画をアップしたい・・・ </b>
-    </td>
-  </tr>
-</table>
