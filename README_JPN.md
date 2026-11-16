@@ -42,3 +42,15 @@
 
 ③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md)  <br>
 
+ 黄緑のワークを把持し、赤い入れ物へ置く動作に成功（[評価の成功動画](video_evaluation/) )
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="02_Demonstration_data_collection/images/all_character_completed.png" width="33%">
+      <br><b> 実機評価の動画 </b>
+    </td>
+  </tr>
+</table>
+
+ 
