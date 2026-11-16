@@ -40,8 +40,10 @@
   </tr>
 </table>
 
-　　テレオペレーションを実施し、20回の成功データを保存した<br>
+　　テレオペレーション( [様子の動画](02_Demonstration_data_collection/video/) )を実施し、20回の成功データを保存した<br>
   　　　⇒　[収集した動画データ](02_Demonstration_data_collection/datasets/video/)
+
+ [テレオペレーション：実演データ収集の動画](video/) teleoperation.mp4
 
 ③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md)  <br>
 
