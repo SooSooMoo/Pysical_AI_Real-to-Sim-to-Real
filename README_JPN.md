@@ -16,3 +16,9 @@
 
 - **[Japanese — ROADMAP_JPN.md](ROADMAP_JPN.md)**
 
+## 実タスク
+
+① [SO-101実機セットアップ](01_SO-101_hardware_setup/README_JPN.md) 
+
+
+
