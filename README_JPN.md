@@ -19,6 +19,6 @@
 ## 実タスク
 
 ① [SO-101実機セットアップ](01_SO-101_hardware_setup/README_JPN.md) 
-
+② [実演データの収集](02_Demonstration_data_collection/README_JPN.md) 
 
 
