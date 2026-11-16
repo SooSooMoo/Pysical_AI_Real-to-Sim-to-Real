@@ -17,5 +17,6 @@ Control models, learned and verified through simulation, are translated into act
 
 ## Actual Tasks
 
+① [SO-101実機セットアップ](01_SO-101_hardware_setup/README_JPN.md) 
 
 
