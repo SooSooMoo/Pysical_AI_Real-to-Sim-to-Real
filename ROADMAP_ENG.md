@@ -1,6 +1,6 @@
 # SO-101 Project Roadmap
 
-**As of November 13, 2026** | *3-2 Imitation learning and evaluation are complete. While I would like to begin exploring 4. Real-to-Sim, the VLM component has already been implemented in the [isaac-lab-vla-cube-lift] repository; thus, an end-to-end workflow has been established at this stage. I will consider the next steps moving forward.
+**As of November 13, 2026** | 3-2 Imitation learning and evaluation are complete. While I would like to begin exploring 4. Real-to-Sim, the VLM component has already been implemented in the [isaac-lab-vla-cube-lift] repository; thus, an end-to-end workflow has been established at this stage. I will consider the next steps moving forward.
 
 **Goal:** Use demonstrations collected on the physical robot to train and refine a policy in simulation, then test it on the physical robot.
 
