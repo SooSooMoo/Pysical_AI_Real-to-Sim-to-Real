@@ -18,5 +18,5 @@ Control models, learned and verified through simulation, are translated into act
 ## Actual Tasks
 
 ① [SO-101 hardware setup](01_SO-101_hardware_setup/README_ENG.md) 
-
+② [Demonstration data collection](02_Demonstration_data_collection/README_ENG.md)
 
