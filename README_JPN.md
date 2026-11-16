@@ -30,5 +30,15 @@
 </table>
 
 ② [実演データの収集](02_Demonstration_data_collection/README_JPN.md)  <br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/all_character_completed.png" width="33%">
+      <br><b> 作業環境 </b>
+    </td>
+  </tr>
+</table>
+
 ③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md)  <br>
 
