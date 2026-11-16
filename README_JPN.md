@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/all_character_completed.png" width="33%">
+      <img src="02_Demonstration_data_collection/images/all_character_completed.png" width="33%">
       <br><b> 作業環境 </b>
     </td>
   </tr>
