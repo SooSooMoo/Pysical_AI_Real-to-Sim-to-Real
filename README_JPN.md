@@ -19,6 +19,16 @@
 ## 実タスク
 
 ① [SO-101実機セットアップ](01_SO-101_hardware_setup/README_JPN.md) <br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="01_SO-101_hardware_setup/images/20261103_leader_and_follower.png" width="33%">
+      <br><b> follower and leader </b>
+    </td>
+  </tr>
+</table>
+
 ② [実演データの収集](02_Demonstration_data_collection/README_JPN.md)  <br>
 ③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md)  <br>
 
