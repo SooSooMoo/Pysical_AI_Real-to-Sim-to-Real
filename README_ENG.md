@@ -34,7 +34,7 @@ Control models, learned and verified through simulation, are translated into act
   <tr>
     <td align="center">
       <img src="02_Demonstration_data_collection/images/all_character_completed.png" width="33%">
-      <br><b> 作業環境 </b>
+      <br><b> work environment </b>
     </td>
   </tr>
 </table>
