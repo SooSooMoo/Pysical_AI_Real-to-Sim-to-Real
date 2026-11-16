@@ -39,5 +39,9 @@ Control models, learned and verified through simulation, are translated into act
   </tr>
 </table>
 
+　　Performed teleoperation ( [video of the process: teleoperation.mp4](02_Demonstration_data_collection/video/) )<br>
+　　and saved data from 20 successful trials<br>
+　　　　⇒　[Collected video data](02_Demonstration_data_collection/datasets/video/)
+
 ③ [Imitation learning and hardware evaluation](03_Imitation_learning_and_hardware_evaluation/README_ENG.md)  <br>
 
