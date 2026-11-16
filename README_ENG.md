@@ -8,6 +8,8 @@ Control models, learned and verified through simulation, are translated into act
 ・I have mapped out the concept into a schedule. Please review the schedule below.<br><br>
 
 ・Based on the schedule, we proceeded with the purchase of a robot arm and a camera arm—including the assembly of the latter—and established a teleoperation environment.<br>
+・First of all, I decided to proceed with Pick and Place. <br>
+・We teleoperated the SO-101 to collect actual machine data, created a model using imitation learning, and evaluated it on the actual machine. <br>
 
 ## Schedule
 
