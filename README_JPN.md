@@ -41,12 +41,12 @@
 </table>
 
 　　テレオペレーション( [様子の動画:teleoperation.mp4](02_Demonstration_data_collection/video/) )を実施し、<br>
-  　20回の成功データを保存した<br>
-  　　　⇒　[収集した動画データ](02_Demonstration_data_collection/datasets/video/)
+　　20回の成功データを保存した<br>
+  　　　　⇒　[収集した動画データ](02_Demonstration_data_collection/datasets/video/)
 
 ③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md)  <br>
 
 　　モデルに、今の作業環境の動画を与えて、実機で評価した <br>
-　　　　⇒　[評価の成功動画](03_Imitation_learning_and_hardware_evaluation/video_evaluation/) 
+　　　　　⇒　[評価の成功動画](03_Imitation_learning_and_hardware_evaluation/video_evaluation/) 
 
  
