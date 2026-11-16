@@ -20,5 +20,5 @@
 
 ① [SO-101実機セットアップ](01_SO-101_hardware_setup/README_JPN.md) 
 ② [実演データの収集](02_Demonstration_data_collection/README_JPN.md) 
-
+③ [模倣学習と実機評価](03_Imitation_learning_and_hardware_evaluation/README_JPN.md) 
 
