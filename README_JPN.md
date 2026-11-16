@@ -47,7 +47,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="02_Demonstration_data_collection/images/all_character_completed.png" width="33%">
+      （[黄緑のワークを把持し、赤い入れ物へ置く動作に成功](03_Imitation_learning_and_hardware_evaluation/video_evaluation/)
+      <img src="03_Imitation_learning_and_hardware_evaluation/images/all_character_completed.png" width="33%">
       <br><b> 実機評価の動画 </b>
     </td>
   </tr>
