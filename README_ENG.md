@@ -45,3 +45,6 @@ Control models, learned and verified through simulation, are translated into act
 
 ③ [Imitation learning and hardware evaluation](03_Imitation_learning_and_hardware_evaluation/README_ENG.md)  <br>
 
+　　We provided the model with video of the current operating environment and evaluated its performance on the actual hardware. <br>
+　　　　⇒　[Video of successful evaluation](03_Imitation_learning_and_hardware_evaluation/video_evaluation/)
+
