@@ -88,55 +88,9 @@ If the JSON already exists, proceed to **Generate the video and CSV**.
 
 Upload `so101_yellow_pick_place_20_trimmed_v1.zip` to the project directory. Install `pyarrow` in the project-local `.data-deps` directory to keep the Parquet dependency separate from the simulator's environment.
 
-~~~bash
-cd /workspace/step10
-unzip -n so101_yellow_pick_place_20_trimmed_v1.zip
-/isaac-sim/python.sh -m pip install --target "$PWD/.data-deps" pyarrow
-PYTHONPATH="$PWD/.data-deps${PYTHONPATH:+:$PYTHONPATH}" /isaac-sim/python.sh - <<'PY'
-import json
-from pathlib import Path
-import pyarrow.parquet as pq
-
-root = Path("so101_yellow_pick_place_20_trimmed_v1")
-info = json.loads((root / "meta/info.json").read_text(encoding="utf-8"))
-table = pq.read_table(
-    root / "data/chunk-000/file-000.parquet",
-    columns=["frame_index", "timestamp", "observation.state"],
-    filters=[("episode_index", "=", 1)],
-)
-frames = sorted(table.to_pylist(), key=lambda row: row["frame_index"])
-assert len(frames) == 780
-names = info["features"]["observation.state"]["names"]
-payload = {
-    "episode_index": 1,
-    "fps": info["fps"],
-    "joint_names": names,
-    "units": ["range_0_100" if name == "gripper.pos" else "deg" for name in names],
-    "frames": frames,
-}
-Path("take02_states.json").write_text(
-    json.dumps(payload, allow_nan=False), encoding="utf-8"
-)
-PY
-~~~
-
 ### Generate the video and CSV
 
 The command uses the system `ffmpeg` when available. Otherwise, it installs `imageio-ffmpeg` locally and uses its bundled executable.
-
-~~~bash
-cd /workspace/IsaacLab-develop
-if ! FFMPEG_BIN=$(command -v ffmpeg); then
-  DEPS=/workspace/step10/.video-deps
-  /isaac-sim/python.sh -m pip install --target "$DEPS" --no-deps --only-binary=:all: imageio-ffmpeg &&
-  FFMPEG_BIN=$(PYTHONPATH="$DEPS${PYTHONPATH:+:$PYTHONPATH}" \
-    /isaac-sim/python.sh -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')
-fi
-if [ -n "$FFMPEG_BIN" ]; then
-  ./isaaclab.sh -p /workspace/step10/test_take02_rim_clearance_verified.py \
-    --ffmpeg "$FFMPEG_BIN" --bowl-depth-cm 6.3 --lift-cm 5
-fi
-~~~
 
 Outputs are written to `/workspace/step10`.
 
