@@ -78,8 +78,8 @@ Runpod内でVS Code CLIが準備済みなら、`./code tunnel user login --provi
 
 | ファイル | 内容 |
 | --- | --- |
-| [scene_take02_rim_check.py](./scene_take02_rim_check.py) | 机、動くワーク、おわんを配置 |
-| [test_take02_rim_clearance_verified.py](./test_take02_rim_clearance_verified.py) | 把持から投入までを実行し、動画とCSVを保存 |
+| [scene_take02_rim_check.py](code/) | 机、動くワーク、おわんを配置 |
+| [test_take02_rim_clearance_verified.py](code/) | 把持から投入までを実行し、動画とCSVを保存 |
 | `take02_states.json` | 実演の関節実測値。元データZIPから下記の手順で生成可能 |
 
 JSONが準備済みなら、次の「動画とCSVの生成」へ進む。
