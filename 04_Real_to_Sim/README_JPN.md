@@ -141,4 +141,4 @@ fi
 成果物は `/workspace/step10` に保存される。
 
 - [take02_rim_clearance_corrected_lift5_depth6.3.mp4](results/task02/) は4-1の作業環境と、把持から投入までの動画。
-- [take02_rim_clearance_corrected_lift5_depth6.3.csv](results/task02/)  はワーク中心のXYZ、最下端と縁の高低差、おわん中心から最外角までの距離、解放の許可、各関節の目標角と実測角の時系列。4-2の数値結果の根拠。
+- [take02_rim_clearance_corrected_lift5_depth6.3.csv](results/task02/) はワーク中心のXYZ、最下端と縁の高低差、おわん中心から最外角までの距離、解放の許可、各関節の目標角と実測角の時系列。4-2の数値結果の根拠。
