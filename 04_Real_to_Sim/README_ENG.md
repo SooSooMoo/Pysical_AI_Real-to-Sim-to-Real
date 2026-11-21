@@ -32,8 +32,6 @@ cd /workspace/IsaacLab-develop
 
 With the VS Code CLI installed in the Pod, run `./code tunnel user login --provider github` to authenticate, then run `./code tunnel` to start the connection.
 
-[Isaac Lab empty-scene tutorial](https://isaac-sim.github.io/IsaacLab/develop/source/how-to/create_empty.html) · [Runpod Registry Credentials](https://console.runpod.io/user/credentials?tab=registry-credentials)
-
 ## 4-1 Recreating the Workspace
 
 The reference point is the projection of the base's `shoulder_pan` axis onto the tabletop. Forward, left, and right are defined from behind the follower, looking toward the workspace.
