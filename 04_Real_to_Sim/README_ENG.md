@@ -78,8 +78,8 @@ Place the following files in `/workspace/step10`.
 
 | File | Purpose |
 | --- | --- |
-| [scene_take02_rim_check.py](./scene_take02_rim_check.py) | Builds the table, movable workpiece, and bowl |
-| [test_take02_rim_clearance_verified.py](./test_take02_rim_clearance_verified.py) | Runs the grasp and placement trial and saves the video and CSV |
+| [scene_take02_rim_check.py](code/) | Builds the table, movable workpiece, and bowl |
+| [test_take02_rim_clearance_verified.py](code/) | Runs the grasp and placement trial and saves the video and CSV |
 | `take02_states.json` | Measured joint positions for the demonstration, generated from the source dataset ZIP |
 
 If the JSON already exists, proceed to **Generate the video and CSV**.
