@@ -32,8 +32,6 @@ cd /workspace/IsaacLab-develop
 
 Runpod内でVS Code CLIが準備済みなら、`./code tunnel user login --provider github` で認証し、`./code tunnel` で接続を開始できる。
 
-[Isaac Labの空シーン起動チュートリアル](https://isaac-sim.github.io/IsaacLab/develop/source/how-to/create_empty.html) · [Runpodのレジストリ認証設定](https://console.runpod.io/user/credentials?tab=registry-credentials)
-
 ## 4-1 作業環境の再現
 
 台座の `shoulder_pan` 回転軸を天板に投影した点を測定の基準とした。前後左右は、フォロワーの背後から作業スペースを見た向きで表す。
