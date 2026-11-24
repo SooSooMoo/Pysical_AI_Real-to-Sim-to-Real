@@ -94,5 +94,5 @@ The command uses the system `ffmpeg` when available. Otherwise, it installs `ima
 
 Outputs are written to `/workspace/step10`.
 
-- [take02_rim_clearance_corrected_lift5_depth6.3.mp4](results/task02/) shows the workspace and the full grasp-to-placement sequence for 4-1.
-- [take02_rim_clearance_corrected_lift5_depth6.3.csv](results/task02/)  records the workpiece center in XYZ, clearance between its lowest corner and the rim, the maximum horizontal distance from a corner to the bowl center, the release flag, and target and measured joint angles. It provides the numerical evidence for 4-2.
+- [take02_rim_clearance_corrected_lift5_depth6.3_visual_aligned_replay.mp4](results/task02/) shows the workspace and the full grasp-to-placement sequence for 4-1.
+- [take02_rim_clearance_corrected_lift5_depth6.3_visual_aligned_replay.csv](results/task02/)  records the workpiece center in XYZ, clearance between its lowest corner and the rim, the maximum horizontal distance from a corner to the bowl center, the release flag, and target and measured joint angles. It provides the numerical evidence for 4-2.
