@@ -13,10 +13,10 @@
 | 2. Demonstration data collection | 2-2 Choose a task and record a trial <br> **"MimicAndCapture"** | For example, move a block from point A to point B. Record one demonstration and check the video, joint positions, and commands. | Complete |
 | 2. Demonstration data collection | 2-3 Collect demonstrations | Repeat the task and assemble the successful demonstrations into a training dataset. | Complete |
 | 3. [Imitation learning and hardware evaluation](03_Imitation_learning_and_hardware_evaluation/README_ENG.md)  | 3-1 Check the training environment | Verify GPU operation in PyTorch, then choose between the local PC and an external GPU for training. | Complete |
-| 3. Imitation learning and hardware evaluation | **3-2 Train and evaluate a policy** | Train on the demonstrations. Run the same task on the white follower, count successful trials, and record common failure patterns. | **Complete** |
-| 4. [Real-to-Sim](04_Real_to_Sim/README_ENG.md)  | **4-1 Recreate the workspace** | Reproduce the dimensions and placement of the white follower, table, target object, and camera in simulation. | **In progress** |
-| 4. Real-to-Sim | 4-2 Compare simulated and physical motion | Replay the recorded motion on the simulated arm. Compare the gripper tip’s path and the object’s motion with the physical recording. | Planned |
-| 5. Sim-to-Real | 5-1 Train and refine the policy in simulation | Vary conditions such as object position and lighting while training and evaluating the policy on the same task. | Planned |
+| 3. Imitation learning and hardware evaluation | 3-2 Train and evaluate a policy | Train on the demonstrations. Run the same task on the white follower, count successful trials, and record common failure patterns. | Complete |
+| 4. [Real-to-Sim](04_Real_to_Sim/README_ENG.md)  | **4-1 Recreate the workspace** | Reproduce the dimensions and placement of the white follower, table, target object, and camera in simulation. |  **Complete**  |
+| 4. Real-to-Sim | **4-2 Compare simulated and physical motion** | Replay the recorded motion on the simulated arm. Compare the gripper tip’s path and the object’s motion with the physical recording. |  **Complete**  |
+| 5. Sim-to-Real | **5-1 Train and refine the policy in simulation** | Vary conditions such as object position and lighting while training and evaluating the policy on the same task. | **In progress** |
 | 5. Sim-to-Real | 5-2 Validate on hardware | Test the refined policy on the white follower and compare its success rate with the baseline from Phase 3. | Planned |
 
 "MimicAndCapture": Mimic and Capture — the “Hello World” of robot data collection.Follow the motion. Record the scene. Save the data.<br>I came up with the name.
